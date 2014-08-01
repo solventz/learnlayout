@@ -2,6 +2,10 @@
   display: block;
 }
 
-#2-inline {
+#a2-inline {
+  display: inline;
+}
+
+#a2-extra li {
   display: inline;
 }
