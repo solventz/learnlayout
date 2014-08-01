@@ -1,0 +1,11 @@
+#a2-block {
+  display: block;
+}
+
+#a2-inline {
+  display: inline;
+}
+
+#a2-extra li {
+  display: inline;
+}
